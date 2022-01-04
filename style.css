@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://thumbs.gfycat.com/AcclaimedUnripeInganue-size_restricted.gif);
+    position: center;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 100px;
+}
